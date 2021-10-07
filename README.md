@@ -1,1 +1,1 @@
-Ercice Ruby
+Exercice Ruby
